@@ -11,12 +11,12 @@ function App() {
     <>
       
       
-      <Nav ></Nav>
+      {/* <Nav ></Nav>
       <h1 className='text-5xl font-bold p-6 text-center'>Responsive Navbar & ReCharts</h1>
       <div>
         <LChart></LChart>
         <BChart></BChart>
-      </div>
+      </div> */}
     </>
   )
 }

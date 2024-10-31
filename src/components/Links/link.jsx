@@ -1,4 +1,4 @@
-export default function Link({link}) {
+export default function SingleLink({link}) {
  const {path, name} = link;
   return (
     <>
